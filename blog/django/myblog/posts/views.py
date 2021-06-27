@@ -10,6 +10,7 @@ def create_post_view(request):
 def detail_post_view(request):
     return render(request, 'posts/detail.html')
 
+## (R)etrieve
 # This is to view all of our blog posts.
 def list_post_view(request):
     return render(request, 'posts/list.html')
