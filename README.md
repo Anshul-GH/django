@@ -8,4 +8,5 @@ pip3 install Django
 # creating a django project
 django-admin startproject <name>
 
-https://www.youtube.com/watch?v=rHux0gMZ3Eg
+Jan 4th: https://www.youtube.com/watch?v=rHux0gMZ3Eg
+Jan 6th: https://www.youtube.com/watch?v=PtQiiknWUcI
